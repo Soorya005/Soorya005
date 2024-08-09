@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/cyber%20security-%2300A86B.svg?style=for-the-badge&logo=security&logoColor=white" alt="cybersecurity" />
 </p>
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" height="150" alt="cybersecurity-gif" />
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" height="150" alt="soorya-sun-gif" />
+
 </p>
 
 
