@@ -83,7 +83,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soorya005&theme=tokyonight" alt="soorya005" />
 </p>
 
-<h3 align="left">GitHub Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=soorya005&theme=github" alt="GitHub Contribution Graph" />
-</p>
+
