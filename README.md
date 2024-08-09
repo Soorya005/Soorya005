@@ -7,10 +7,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="300" height="150" alt="hacker-gif" />
-
-</p>
 
 
 <p align="center">
