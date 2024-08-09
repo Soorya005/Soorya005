@@ -6,18 +6,13 @@
   <img src="https://img.shields.io/badge/cyber%20security-%2300A86B.svg?style=for-the-badge&logo=security&logoColor=white" alt="cybersecurity" />
 </p>
 
-
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soorya005&theme=dracula" alt="soorya005" />
 </p>
 
 <p align="center">
- <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" height="150" alt="cybersecurity-gif" />
-
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="150" alt="hacker-gif" />
 </p>
-
 
 - 🔭 I’m currently working on [A Pharmacy Management System](https://github.com/Soorya005/pharmacy-database)
 
@@ -87,8 +82,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soorya005&theme=tokyonight" alt="soorya005" />
 </p>
+
+<h3 align="left">GitHub Contribution Graph:</h3>
 <p align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=soorya005&theme=github)
+  <img src="https://activity-graph.herokuapp.com/graph?username=soorya005&theme=github" alt="GitHub Contribution Graph" />
 </p>
-
