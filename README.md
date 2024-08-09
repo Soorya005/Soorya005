@@ -2,8 +2,8 @@
 <h3 align="center">A passionate cybersecurity enthusiast keen on protecting data</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soorya005&label=Visitors%20Count&color=0e75b6&style=plastic" alt="soorya005" />
-  <img src="https://img.shields.io/badge/cyber%20security-%23FF0000.svg?style=for-the-badge&logo=cyber&logoColor=white" alt="cybersecurity" />
+  <img src="https://komarev.com/ghpvc/?username=soorya005&label=Visitors&color=brightgreen&style=plastic" alt="soorya005" />
+  <img src="https://img.shields.io/badge/cyber%20security-%2300A86B.svg?style=for-the-badge&logo=security&logoColor=white" alt="cybersecurity" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCPv2S5uyfWyNVe/giphy.gif" width="300" height="150" alt="soorya-gif" />
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" height="150" alt="soorya-gif" />
 </p>
 
 - 🔭 I’m currently working on [A Pharmacy Management System](https://github.com/Soorya005/pharmacy-database)
