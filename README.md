@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" height="150" alt="soorya-gif" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" height="150" alt="cybersecurity-gif" />
+
 </p>
 
 - 🔭 I’m currently working on [A Pharmacy Management System](https://github.com/Soorya005/pharmacy-database)
