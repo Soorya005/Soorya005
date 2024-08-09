@@ -5,15 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=soorya005&label=Visitors&color=brightgreen&style=plastic" alt="soorya005" />
   <img src="https://img.shields.io/badge/cyber%20security-%2300A86B.svg?style=for-the-badge&logo=security&logoColor=white" alt="cybersecurity" />
 </p>
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" height="150" alt="cybersecurity-gif" />
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soorya005&theme=dracula" alt="soorya005" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" height="150" alt="cybersecurity-gif" />
+ <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" height="150" alt="cybersecurity-gif" />
 
 </p>
+
 
 - 🔭 I’m currently working on [A Pharmacy Management System](https://github.com/Soorya005/pharmacy-database)
 
