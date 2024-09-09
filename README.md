@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="150" alt="hacker-gif" />
 </p>
 
-- 🔭 I’m currently working on [A Pharmacy Management System](https://github.com/Soorya005/pharmacy-database)
+- 🔭 I’m currently working on [Symptom Checker using RAG](https://github.com/Soorya005/Symptom-checker)
 
 - 🌱 I’m currently learning **Ethical Hacking, Post-Quantum Cryptography**
 
