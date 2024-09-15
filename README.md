@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Soorya A P</h1>
 <h3 align="center">A passionate cybersecurity enthusiast keen on protecting data</h3>
 
-<!-- GIF Banner -->
+<!-- Better Cybersecurity GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cybersecurity GIF" width="600" height="300">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Cybersecurity GIF" width="600" height="300">
 </p>
 
-<!-- Profile Views -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=soorya005&label=Profile%20views&color=e60f0f&style=flat-square" alt="soorya005" /> 
+<!-- Modern Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=soorya005&label=Profile%20Views&color=blueviolet&style=flat-square" alt="soorya005" />
 </p>
 
 <!-- GitHub Trophies with improved look -->
