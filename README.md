@@ -63,7 +63,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Soorya005/Soorya005/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Soorya005/Soorya005/blob/output/snake.svg)
 
 ###
 
