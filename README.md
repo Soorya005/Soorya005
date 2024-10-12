@@ -74,7 +74,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@sooryaap10d" alt="Layout with last medium posts"  />
+  <a href="https://medium.com/feed/@sooryaap10d">Latest Medium Posts</a>
+
 </div>
 
 ###
