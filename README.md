@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on A Pharmacy Management System<br>🌱 I’m currently learning Development, Ethical Hacking, Post-Quantum Cryptography<br>👨‍💻 All of my projects are available at https://github.com/Soorya005<br>💬 Ask me about Cybersecurity, Networking<br>📫 How to reach me apsoorya2020@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/sooryaap</p>
+<p align="left">🔭 I’m currently working on Side chanel attacks <br>🌱 I’m currently learning Blue teaming , Ethical Hacking, Post-Quantum Cryptography<br>👨‍💻 All of my projects are available at https://github.com/Soorya005<br>💬 Ask me about Cybersecurity, Networking<br>📫 How to reach me apsoorya2020@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/sooryaap</p>
 
 ###
 
