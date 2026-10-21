@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">  I’m currently not doing anything Offically Re"tired" <br>👨‍💻 All of my projects are available at https://github.com/Soorya005<br> <br>📫 How to reach me apsoorya2020@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/sooryaap</p>
+<p align="left">  I’m currently not doing anything <br> Offically Re"tired"<br> <br>📫 How to reach me apsoorya2020@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/sooryaap</p>
 
 ###
 
