@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Soorya A P and I'm a ethical hacker</h2>
+<h2 align="left">Hi ! My name is Soorya A P and I'm a former ethical hacker</h2>
 
 ###
 
-<p align="left">🔭 I’m currently working on Side chanel attacks <br>🌱 I’m currently learning Blue teaming , Ethical Hacking, Post-Quantum Cryptography<br>👨‍💻 All of my projects are available at https://github.com/Soorya005<br>💬 Ask me about Cybersecurity, Networking<br>📫 How to reach me apsoorya2020@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/sooryaap</p>
+<p align="left"> I’m currently not doing anything <br>👨‍💻 All of my projects are available at https://github.com/Soorya005<br> Ask me about Cybersecurity, Networking<br>📫 How to reach me apsoorya2020@gmail.com<br>📄 Know about my experiences www.linkedin.com/in/sooryaap</p>
 
 ###
 
